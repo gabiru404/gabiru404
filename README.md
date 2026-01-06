@@ -1,82 +1,63 @@
-<h1 align="center">Olá 👋, eu sou Gabriel Sousa</h1>
-<h3 align="center">Pós-graduando em Sistemas Computacionais | Desenvolvedor de Software</h3>
+<h1 align="center">Hello, I'm Gabriel Sousa</h1>
+<h3 align="center">Postgraduate Student in Computational Systems | Software Developer</h3>
 
 <p align="center">
-  <a href="https://github.com/gabrielslsz">
-    <img src="https://img.shields.io/badge/Outro%20GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/gabrielslsz/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/gabrielslsz">
-    <img src="https://img.shields.io/badge/Portfólio-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
+  <a href="https://github.com/gabrielslsz"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/gabrielslsz/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/gabrielslsz"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🎓 Sobre minha Pós-graduação
+## About My Postgraduate Program
 
-Atualmente sou **pós-graduando em Sistemas Computacionais**, com foco no **desenvolvimento, modelagem e manutenção de sistemas de software**, aplicando conceitos avançados de:
+I am currently a **postgraduate student in Computational Systems at the Instituto Federal do Tocantins (IFTO)**, with a focus on the **development, modeling, and maintenance of software systems**, applying advanced concepts such as:
 
-- Arquitetura de sistemas  
-- Engenharia de software  
-- Sistemas distribuídos  
-- Banco de dados  
-- Integração entre sistemas  
-- Boas práticas de desenvolvimento e versionamento  
+- Systems architecture  
+- Software engineering  
+- Distributed systems  
+- Databases  
+- Systems integration  
+- Development best practices and version control  
 
-Esta pós-graduação complementa minha atuação prática como desenvolvedor, unindo **fundamentos teóricos + aplicação real no mercado**.
-
----
-
-## 🧠 Áreas de Estudo em Sistemas Computacionais
-
-- 📐 Arquitetura de Software  
-- 🔁 Sistemas Distribuídos  
-- 🗄️ Banco de Dados Relacionais e Não Relacionais  
-- 🔐 Segurança da Informação  
-- ⚙️ Integração de Sistemas e APIs  
-- 🧪 Qualidade de Software e Testes  
-- 📊 Análise e Modelagem de Sistemas  
+This postgraduate program complements my professional experience as a software developer, combining **theoretical foundations with real-world application**.
 
 ---
 
-## 💻 Tecnologias & Ferramentas
+## Areas of Study in Computational Systems
+
+- Software Architecture  
+- Distributed Systems  
+- Relational and Non-Relational Databases  
+- Information Security  
+- Systems Integration and APIs  
+- Software Quality and Testing  
+- Systems Analysis and Modeling  
+
+---
+
+## Technologies and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,java,spring,javascript,html,css,react,nodejs,mysql,postgres,git,github,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=python,django,javascript,html,css,react,nodejs,mysql,postgres,git,github,docker,linux" />
 </p>
 
 ---
 
-## 📂 Projetos Acadêmicos & Práticos
+## Academic and Practical Projects
 
-📌 Repositórios focados em:
-- Projetos da pós-graduação  
-- Estudos de arquitetura e modelagem  
-- APIs REST  
-- Sistemas web e backend  
-- Boas práticas de código  
+Repositories focused on:
+- Postgraduate academic projects  
+- Architecture and system modeling studies  
+- REST APIs  
+- Web and backend systems  
+- Clean code and best practices  
 
-👉 **Veja também meus outros projetos aqui:**  
-🔗 **[Acessar outro GitHub](https://github.com/SEU_OUTRO_GITHUB)**
-
----
-
-## 🚀 Objetivo Profissional
-
-Atuar como **Desenvolvedor de Software / Analista de Sistemas**, aplicando os conhecimentos adquiridos na pós-graduação em **Sistemas Computacionais**, contribuindo para soluções escaláveis, seguras e bem arquitetadas.
-
----
-
-## 📫 Contato
-
-- 💼 LinkedIn: https://www.linkedin.com/in/SEU_LINKEDIN  
-- 📧 Email: seuemail@email.com  
+See more of my work here:  
+**[Access main GitHub](https://github.com/gabrielslsz)**
 
 ---
 
 <p align="center">
-  <i>"Transformando conhecimento acadêmico em soluções reais."</i>
+  <i>"Transforming academic knowledge into real-world solutions."</i>
 </p>
