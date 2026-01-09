@@ -1,11 +1,11 @@
 <h1 align="center">Hello, I'm Gabriel Sousa</h1>
 <h3 align="center">Postgraduate Student in Computational Systems | Software Developer</h3>
 
-<p align="center">
+<div style="display:flex; gap:10px; justify-content:center;">
   <a href="https://github.com/gabrielslsz"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/gabrielslsz/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/gabrielslsz"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-</p>
+</div>
 
 ---
 
