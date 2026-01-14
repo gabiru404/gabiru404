@@ -24,6 +24,9 @@ This postgraduate program complements my professional experience as a software d
 
 ---
 
+![Snake animation](https://raw.githubusercontent.com/<SEU_USUARIO>/<SEU_USUARIO>/output/github-contribution-grid-snake-dark.svg)
+
+
 ## Areas of Study in Computational Systems
 
 - Software Architecture  
