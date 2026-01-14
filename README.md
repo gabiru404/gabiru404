@@ -24,7 +24,12 @@ This postgraduate program complements my professional experience as a software d
 
 ---
 
-![Snake animation](https://raw.githubusercontent.com/<SEU_USUARIO>/<SEU_USUARIO>/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/<SEU_USUARIO>/<SEU_USUARIO>/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/<SEU_USUARIO>/<SEU_USUARIO>/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/<SEU_USUARIO>/<SEU_USUARIO>/output/github-contribution-grid-snake.svg" />
+</picture>
+
 
 
 ## Areas of Study in Computational Systems
