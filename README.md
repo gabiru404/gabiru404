@@ -11,16 +11,16 @@
 
 ## About My Postgraduate Program
 
-I am currently a **postgraduate student in Computational Systems at the Instituto Federal do Tocantins (IFTO)**, with a focus on the **development, modeling, and maintenance of software systems**, applying advanced concepts such as:
+I am currently a **postgraduate student in Computational Systems at the Federal Institute of Tocantins (IFTO)**, focusing on the **development, modeling, and maintenance of software systems**, applying advanced concepts such as:
 
-- Systems architecture  
-- Software engineering  
-- Distributed systems  
+- Systems Architecture  
+- Software Engineering  
+- Distributed Systems  
 - Databases  
-- Systems integration  
-- Development best practices and version control  
+- Systems Integration  
+- Development Best Practices and Version Control  
 
-This postgraduate program complements my professional experience as a software developer, combining **theoretical foundations with real-world application**.
+This postgraduate program complements my professional experience as a software developer, combining **strong theoretical foundations with real-world applications**.
 
 ---
 
